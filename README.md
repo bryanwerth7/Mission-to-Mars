@@ -1,1 +1,2 @@
 # Mission-to-Mars
+This analysis was aimed at writing a python script to srape data from NASA website using Beautiful Soup and Splinter, store it in a NoSQL database- MongoDB, then use Flask to present that data on the web. I learned HTML, and used bootstrap to polish my website and make it stand out from others. This was a very challenging analysis, but very rewarding when you can see the final product on a website that you built!
